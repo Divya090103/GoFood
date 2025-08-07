@@ -10,7 +10,7 @@ Gofood is a full-stack online food ordering application that allows users to bro
 - 🔐 Secure authentication using JWT
 - 📦 Place and view orders
 - 🧾 Responsive UI with React
-- ☁️ Cloud deployment with MongoDB Atlas, Render, and Vercel
+
 
 ---
 
